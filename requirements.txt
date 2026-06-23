@@ -1,0 +1,5 @@
+streamlit
+pandas
+plotly
+edge-tts
+groq
