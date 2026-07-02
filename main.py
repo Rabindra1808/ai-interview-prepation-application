@@ -12,7 +12,7 @@ import edge_tts
 from groq import Groq
 
 st.set_page_config(page_title="AI Interview Coach", page_icon="🎤", layout="wide")
-GROQ_API_KEY = "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"  # Add your Groq API key here
+GROQ_API_KEY = "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"  # Add your Groq API key here
 
 client = Groq(api_key=GROQ_API_KEY)
 
